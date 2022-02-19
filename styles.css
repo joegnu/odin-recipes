@@ -4,8 +4,7 @@ ul li{
     color:black
     font-weight: bolder;
     text-align: center;
-    list-style-position: inside ;
-
+    list-style-position: inside; 
 }
 body {
     background-color: pink;
